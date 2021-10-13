@@ -41,6 +41,6 @@ Resume: https://amandahinton.com/resume
 * Wiki: https://github.com/JackyxCS/Whereabouts/wiki   
 
 
-<p align="center">
+<p align="center" style="margin-top: 20px;">
   <img src="https://github.com/amandahinton/amandahinton/blob/main/recent_projects.gif" />
 </p>
