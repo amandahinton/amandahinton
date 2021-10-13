@@ -42,6 +42,5 @@ Resume: https://amandahinton.com/resume
 
 
 <p align="center">
-  <p></p>
   <img src="https://github.com/amandahinton/amandahinton/blob/main/recent_projects.gif" />
 </p>
