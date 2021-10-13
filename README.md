@@ -40,4 +40,4 @@ Resume: https://amandahinton.com/resume
 * Repository: https://github.com/JackyxCS/Whereabouts
 * Wiki: https://github.com/JackyxCS/Whereabouts/wiki   
 
-[]!(https://github.com/amandahinton/amandahinton/blob/main/recent_projects.gif)
+![](https://github.com/amandahinton/amandahinton/blob/main/recent_projects.gif)
