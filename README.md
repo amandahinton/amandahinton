@@ -10,6 +10,10 @@ Website and Portfolio: https://amandahinton.com
 
 LinkedIn: https://www.linkedin.com/in/amandahinton
 
+AngelList: https://angel.co/u/amanda-hinton
+
+Resume: https://amandahinton.com/resume
+
 ***
 
 ### RECENT PROJECTS
