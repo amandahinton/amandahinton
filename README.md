@@ -2,8 +2,6 @@
 
 I’m a full-stack engineer (most at home on the frontend with Javascript, React, Redux, and CSS) looking to leverage my business and creative background to build beautiful products that solve big problems.
 
-***
-
 ### GET TO KNOW ME
 
 Website and Portfolio: https://amandahinton.com
@@ -14,7 +12,11 @@ AngelList: https://angel.co/u/amanda-hinton
 
 Resume: https://amandahinton.com/resume
 
-***
+
+<p align="center">
+  <img style="margin:20px" src="https://github.com/amandahinton/amandahinton/blob/main/recent_projects.gif" />
+</p>
+
 
 ### RECENT PROJECTS
 
@@ -41,6 +43,3 @@ Resume: https://amandahinton.com/resume
 * Wiki: https://github.com/JackyxCS/Whereabouts/wiki   
 
 
-<p align="center">
-  <img src="https://github.com/amandahinton/amandahinton/blob/main/recent_projects.gif" />
-</p>
