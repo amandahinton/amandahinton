@@ -2,11 +2,15 @@
 
 I’m a full-stack engineer (most at home on the frontend with Javascript, React, Redux, and CSS) looking to leverage my business and creative background to build beautiful products that solve big problems.
 
+***
 
 ### GET TO KNOW ME
-#### Website and Portfolio: https://amandahinton.com
-#### LinkedIn: https://www.linkedin.com/in/amandahinton
 
+Website and Portfolio: https://amandahinton.com
+
+LinkedIn: https://www.linkedin.com/in/amandahinton
+
+***
 
 ### RECENT PROJECTS
 
