@@ -1,6 +1,6 @@
 ## Currently seeking a user-focused organization with interesting challenges, an awesome culture, and room to grow!
 
-I’m a full-stack engineer (most at home on the frontend with Javascript, React, Redux, and CSS) looking to leverage my business and creative background to build beautiful products that solve big problems.
+I’m a full-stack engineer (most at home on the frontend with Javascript, React, and CSS) looking to leverage my business and creative background to build beautiful products that solve big problems.
 
 ### GET TO KNOW ME
 
