@@ -36,7 +36,7 @@ Resume: https://amandahinton.com/resume
 
 #### Whereabouts 
 * Location-based adventuring app with social posting and commenting
-* Built with JavaScript, Python, React, Redux, HTML, CSS, Flask, WTForms, PostgreSQL, SQLAlchemy, AWS S3, Google Maps, Heroku, and Docker
+* Built with JavaScript, Python, React, Redux, CSS, Flask, WTForms, PostgreSQL, SQLAlchemy, AWS S3, Google Maps, Heroku, and Docker
 * Other contributors: Frema Awuku and Jacky Hao
 * Live application: https://app-whereabouts.herokuapp.com/
 * Repository: https://github.com/JackyxCS/Whereabouts
