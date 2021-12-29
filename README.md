@@ -1,11 +1,10 @@
-## Currently seeking a user-focused organization with interesting challenges, an awesome culture, and room to grow!
-
-I’m a full-stack engineer (most at home on the frontend with Javascript, React, and CSS) looking to leverage my business and creative background to build beautiful products that solve big problems.
-
 ### GET TO KNOW ME
+I’m a full-stack engineer (most at home on the frontend with JavaScript, React, and CSS) looking to leverage my business and creative background to build beautiful products that solve big problems.
 
 Website and Portfolio: https://amandahinton.com
+
 LinkedIn: https://www.linkedin.com/in/amandahinton
+
 Resume: https://amandahinton.com/resume
 
 
