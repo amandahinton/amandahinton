@@ -5,11 +5,7 @@ I’m a full-stack engineer (most at home on the frontend with Javascript, React
 ### GET TO KNOW ME
 
 Website and Portfolio: https://amandahinton.com
-
 LinkedIn: https://www.linkedin.com/in/amandahinton
-
-AngelList: https://angel.co/u/amanda-hinton
-
 Resume: https://amandahinton.com/resume
 
 
