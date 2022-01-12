@@ -13,28 +13,20 @@ Resume: https://amandahinton.com/resume
 </p>
 
 
-### RECENT PROJECTS
+### RECENT PROJECTS (see pinned repos for code and wikis)
 
 #### Chromaculture 
-* Digital magazine about color that blends color theory, pigments, art, and history 
+* Digital magazine about color that blends pigments, art, history, and color theory 
 * Built with JavaScript, Python, React, Redux, CSS, Flask, WTForms, PostgreSQL, SQLAlchemy, Heroku, and Docker
-* Live application: https://chromaculture.herokuapp.com/
-* Repository: https://github.com/amandahinton/chromaculture
-* Wiki: https://github.com/amandahinton/chromaculture/wiki       
+* https://chromaculture.herokuapp.com/   
 
 #### Homeslice 
 * Maintenance and repair app for managing home upkeep and improvements 
 * Built with JavaScript, Node.js, Express, React, Redux, CSS, PostgreSQL, Sequelize, and Heroku
-* Live application: https://homesliceapp.herokuapp.com/
-* Repository: https://github.com/amandahinton/homeslice
-* Wiki: https://github.com/amandahinton/homeslice/wiki
+* https://homesliceapp.herokuapp.com/
 
 #### Whereabouts 
 * Location-based adventuring app with social posting and commenting
 * Built with JavaScript, Python, React, Redux, CSS, Flask, WTForms, PostgreSQL, SQLAlchemy, AWS S3, Google Maps, Heroku, and Docker
 * Other contributors: Frema Awuku and Jacky Hao
-* Live application: https://app-whereabouts.herokuapp.com/
-* Repository: https://github.com/JackyxCS/Whereabouts
-* Wiki: https://github.com/JackyxCS/Whereabouts/wiki   
-
-
+* https://app-whereabouts.herokuapp.com/
