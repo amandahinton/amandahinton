@@ -1,5 +1,5 @@
 ### GET TO KNOW ME
-I’m a full-stack engineer (most at home on the frontend with JavaScript, React, and CSS) that leverages my business and creative background to build beautiful products that solve real problems.
+I’m a full-stack engineer (happiest on the frontend with JavaScript, TypeScript, React, and CSS) that leverages my business and creative background to build beautiful, intuitive, useful products.
 
 Website and Portfolio: https://amandahinton.com
 
