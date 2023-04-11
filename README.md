@@ -18,15 +18,12 @@ Resume: https://amandahinton.com/resume
 #### Chromaculture 
 * Digital magazine about color that blends pigments, art, history, and color theory 
 * Built with JavaScript, Python, React, Redux, CSS, Flask, WTForms, PostgreSQL, SQLAlchemy, Heroku, and Docker
-* https://chromaculture.herokuapp.com/   
 
 #### Homeslice 
 * Maintenance and repair app for managing home upkeep and improvements 
 * Built with JavaScript, Node.js, Express, React, Redux, CSS, PostgreSQL, Sequelize, and Heroku
-* https://homesliceapp.herokuapp.com/
 
 #### Whereabouts 
 * Location-based adventuring app with social posting and commenting
 * Built with JavaScript, Python, React, Redux, CSS, Flask, WTForms, PostgreSQL, SQLAlchemy, AWS S3, Google Maps, Heroku, and Docker
 * Other contributors: Frema Awuku and Jacky Hao
-* https://app-whereabouts.herokuapp.com/
