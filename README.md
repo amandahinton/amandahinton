@@ -17,12 +17,12 @@ Resume: https://amandahinton.com/resume
 #### Huetility
 Huetility makes it easy for software engineers to make smart, accessible color decisions without having to open multiple tools or do the complex math needed to navigate digital colors. The application includes an sRGB color picker, tints and shades, color contrast, vision deficiency emulations, and harmony palettes.
 
-_Built with JavaScript, TypeScript, CSS, Vite, React, React Testing Library, Vitest, and Git/GitHub_
+_Built with JavaScript, TypeScript, CSS, Vite, React, React Testing Library, and Vitest_
 
 #### Chromaculture (in development)
 Chromaculture is an app for interacting with and learning about color, including a swatchbook, a digital magazine, and other color-based tools. Chromaculture Swatchbook organizes detailed swatches, from watercolor paints to nail polish to fabric samples. Users can upload images and select digital swatches, which can be collected into palettes. Browse shared swatches and palettes for inspiration.
 
-_Built with JavaScript, TypeScript, Next.JS, CSS, React, Prisma ORM, Vercel Postgres, and Git/GitHub_
+_Built with JavaScript, TypeScript, Next.JS, CSS, React, Prisma ORM, and Vercel Postgres_
 
 #### Chromaculture Magazine
 Chromaculture is a digital magazine that blends color theory, science, art history, industry information, and pop culture in a way that is modern, informative, provocative, and playful. Users can read article previews, bookmark articles to save to their personal collection, and comment on each article.
