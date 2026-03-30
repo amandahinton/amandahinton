@@ -4,11 +4,11 @@ high-impact, user-focused products.
 
 Currently, I'm in my second batch at [Recurse Center](https://www.recurse.com/)!
 
-Website and Portfolio: https://amandahinton.com
+Website and Portfolio: [amandahinton.com](https://amandahinton.com)
 
-LinkedIn: https://www.linkedin.com/in/amandahinton
+LinkedIn: [linkedin.com/in/amandahinton](https://www.linkedin.com/in/amandahinton)
 
-Resume: https://amandahinton.com/resume
+Resume: [amandahinton.com/resume](https://amandahinton.com/resume)
 
 <p align="center">
   <img style="margin:20px" src="https://github.com/amandahinton/amandahinton/blob/main/recent_projects.gif" />
