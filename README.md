@@ -1,6 +1,6 @@
 ### GET TO KNOW ME
 I’m a full-stack engineer (happiest on the frontend with JavaScript, TypeScript, React, and CSS) that leverages my business and creative background to deliver polished,
-high-impact, user-friendly products.
+high-impact, user-focused products.
 
 Website and Portfolio: https://amandahinton.com
 
@@ -33,10 +33,3 @@ _Built with JavaScript, Python, React, Redux, CSS, Flask, WTForms, PostgreSQL, S
 Homeslice is an app for homeowners to manage maintenance and repair activities for their home/s. Users can subscribe to suggested routine upkeep and improvement events or create their own custom tasks. Now homeowners can stay on top of the recurring needs of the property—from roof inspection to gutter cleaning to appliance upkeep—extending and protecting the value and safety of their home.
 
 _Built with JavaScript, Node.js, Express, React, Redux, CSS, PostgreSQL, Sequelize, and Heroku_
-
-#### Whereabouts 
-Whereabouts combines social media functionality with location-based adventuring like geocaching. Users will activate one of three missions, travel there and explore that location, share photos and a description of what they found, and interact with posts by fellow adventurers.
-
-_Built with JavaScript, Python, React, Redux, CSS, Flask, WTForms, PostgreSQL, SQLAlchemy, AWS S3, Google Maps, Heroku, and Docker_
-
-_Other contributors: Frema Awuku and Jacky Hao_
