@@ -2,7 +2,7 @@
 I’m a full-stack engineer (happiest on the frontend with JavaScript, TypeScript, React, and CSS) that leverages my business and creative background to deliver polished,
 high-impact, user-focused products.
 
-Currently, I'm in my second batch at [Recurse Center](https://www.recurse.com/)!
+I've recently finished in my second batch at [Recurse Center](https://www.recurse.com/) and am now interviewing for my next role!
 
 Website and Portfolio: [amandahinton.com](https://amandahinton.com)
 
